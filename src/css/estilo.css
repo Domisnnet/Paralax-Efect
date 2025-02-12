@@ -1,4 +1,3 @@
-/* Configuração padrão da página */
 		
 body, html {
     margin: 0;
@@ -32,9 +31,9 @@ p {
     height: 100%;
     opacity: 0.7;
     background-repeat: no-repeat;
-    background-size: cover; /* preenche toda a tela */
+    background-size: cover; 
     background-position: center;
-    background-attachment: fixed; /* a imagem fica fixa e oscroll roda por ela */
+    background-attachment: fixed; 
 }
 
 .caixa1 {
