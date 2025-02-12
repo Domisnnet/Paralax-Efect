@@ -7,14 +7,12 @@ Este projeto demonstra um efeito parallax simples e elegante usando HTML e CSS. 
 
 O efeito parallax cria uma ilusão de profundidade e movimento, onde os elementos de fundo se movem a uma velocidade diferente dos elementos em primeiro plano. Neste exemplo, utilizamos imagens de balões, estradas, pôr do sol e montanhas para criar diferentes seções com o efeito parallax, oferecendo uma experiência visual envolvente.
 
-### 🚀 Demonstração
-
-### 🛠️ Começando
+### 🚀 Demonstração 
 
 Clique no botão abaixo para acessar:
 
 <a href="https://domisnnet.github.io/pokedevs/" target="_blank" rel="noopener noreferrer">
-   <img src="src/imagens/botão.webp" width="35px" height="35px" alt="Acessar">
+   <img src="src/img/botão.webp" width="35px" height="35px" alt="Acessar">
 </a>
 
 ### ⚙️ Estrutura do Projeto
@@ -43,19 +41,6 @@ Sinta-se à vontade para personalizar o projeto e experimentar com diferentes im
 
     *   Ajuste a altura das divs `caixa` para controlar a quantidade de rolagem necessária para ver o efeito.
     *   Brinque com diferentes valores de `background-position` no CSS para alterar o ponto focal da imagem de fundo.
-
-*   **Responsividade:**
-
-    *   Adicione media queries no arquivo `css/estilo.css` para adaptar o design a diferentes tamanhos de tela. Por exemplo:
-
-        ```css
-        @media (max-width: 768px) {
-          /* Estilos para telas menores que 768px de largura */
-          .caixa1, .caixa2, .caixa3, .caixa4 {
-            height: 300px; /* Ajuste a altura para telas menores */
-          }
-        }
-        ```
 
 *   **Fontes:**
 
@@ -94,3 +79,16 @@ Contribuições são bem-vindas! Se você tiver ideias para melhorar o projeto, 
 Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ---
+
+## 💬 Fale Com o Desenvolvedor
+
+Se você tiver alguma dúvida, sugestão, ou simplesmente quiser trocar uma ideia sobre o projeto, sinta-se à vontade para entrar em contato! Existem algumas maneiras de me alcançar:
+
+*   **Meu Perfil do GitHub:** Você pode clicar no Link abaixo, para acessar meu Repositório do GitHub:
+
+<a href="https://github.com/Domisnnet">
+    <img src="src/img/DomisDev.png" width="60px" height="60px" alt="Acessar perfil GitHub">
+    DomisDev
+</a> 
+
+*   **Email:** Você pode me enviar um email diretamente para <a href="mailto:dominique.goncalves61@gmail.com">DomisDev</a>. Tentarei responder o mais breve possível.
