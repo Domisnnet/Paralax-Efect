@@ -1,6 +1,8 @@
 
 ## Efeito Parallax 🎈🌄⛰️
 
+![Efeito Paralax](src/img/imagem1.jpg)
+
 Este projeto demonstra um efeito parallax simples e elegante usando HTML e CSS. Prepare-se para uma experiência visual imersiva enquanto rola a página!
 
 ### ✨ Visão Geral
