@@ -11,7 +11,7 @@ O efeito parallax cria uma ilusão de profundidade e movimento, onde os elemento
 
 Clique no botão abaixo para acessar:
 
-<a href="https://domisnnet.github.io/pokedevs/" target="_blank" rel="noopener noreferrer">
+<a href="https://domisnnet.github.io/efeito-paralax/" target="_blank" rel="noopener noreferrer">
    <img src="src/img/botão.webp" width="35px" height="35px" alt="Acessar">
 </a>
 
