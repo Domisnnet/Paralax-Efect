@@ -93,4 +93,4 @@ Se você tiver alguma dúvida, sugestão, ou simplesmente quiser trocar uma idei
     DomisDev
 </a> 
 
-*   **Email:** Você pode me enviar um email diretamente: <a href="mailto:dominique.goncalves61@gmail.com">DomisDev</a>. Tentarei responder o mais breve possível.
+*   **Email:** Você pode enviar um e-mail diretamente para: <a href="mailto:dominique.goncalves61@gmail.com">DomisDev</a>. Tentarei responder o mais breve possível.
